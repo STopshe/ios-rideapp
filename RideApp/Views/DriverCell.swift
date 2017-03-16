@@ -4,3 +4,6 @@
 # Modified: 2017-02-20
 # Commit: fix: cache manager
 
+# Modified: 2017-03-16
+# Commit: wip: Celery beat schedule
+
