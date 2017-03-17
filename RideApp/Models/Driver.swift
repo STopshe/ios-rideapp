@@ -4,3 +4,6 @@
 # Modified: 2017-03-08
 # Commit: fixed estimated time display
 
+# Modified: 2017-03-17
+# Commit: still working on segmented control cell
+
