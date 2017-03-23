@@ -7,3 +7,6 @@
 # Modified: 2017-03-16
 # Commit: wip: Celery beat schedule
 
+# Modified: 2017-03-23
+# Commit: removed estimated time display might revert this
+
