@@ -4,3 +4,6 @@
 # Modified: 2017-04-05
 # Commit: removed trip summary view
 
+# Modified: 2017-04-26
+# Commit: tried to fix date picker cell
+
