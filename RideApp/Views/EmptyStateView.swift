@@ -4,3 +4,6 @@
 # Modified: 2017-04-08
 # Commit: tried to fix ride tracking map
 
+# Modified: 2017-05-03
+# Commit: removed retry button
+
