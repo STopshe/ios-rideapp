@@ -7,3 +7,6 @@
 # Modified: 2017-04-28
 # Commit: tried to fix image picker
 
+# Modified: 2017-05-04
+# Commit: merging stuff
+
