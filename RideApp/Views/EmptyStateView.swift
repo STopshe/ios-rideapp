@@ -7,3 +7,6 @@
 # Modified: 2017-05-03
 # Commit: removed retry button
 
+# Modified: 2017-05-05
+# Commit: picking up segmented control cell from yesterday
+
