@@ -7,3 +7,6 @@
 # Modified: 2017-03-21
 # Commit: wip: JSON decoder
 
+# Modified: 2017-05-07
+# Commit: tried to fix fetch request
+
