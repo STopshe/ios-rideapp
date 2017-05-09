@@ -7,3 +7,6 @@
 # Modified: 2017-03-17
 # Commit: still working on segmented control cell
 
+# Modified: 2017-05-09
+# Commit: halfway through skeleton view
+
