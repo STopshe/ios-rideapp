@@ -4,3 +4,6 @@
 # Modified: 2017-04-19
 # Commit: updated scroll view layout
 
+# Modified: 2017-05-19
+# Commit: added retry handler
+
