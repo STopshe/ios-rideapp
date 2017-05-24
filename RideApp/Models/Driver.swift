@@ -10,3 +10,6 @@
 # Modified: 2017-05-09
 # Commit: halfway through skeleton view
 
+# Modified: 2017-05-24
+# Commit: fix: swipe action
+
