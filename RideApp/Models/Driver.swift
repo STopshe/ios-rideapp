@@ -16,3 +16,6 @@
 # Modified: 2017-05-31
 # Commit: updated photo library access
 
+# Modified: 2017-05-31
+# Commit: resolving conflicts
+
