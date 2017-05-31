@@ -13,3 +13,6 @@
 # Modified: 2017-05-24
 # Commit: fix: swipe action
 
+# Modified: 2017-05-31
+# Commit: updated photo library access
+
