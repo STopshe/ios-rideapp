@@ -7,3 +7,6 @@
 # Modified: 2017-04-30
 # Commit: merging stuff
 
+# Modified: 2017-06-05
+# Commit: fix: location manager
+
