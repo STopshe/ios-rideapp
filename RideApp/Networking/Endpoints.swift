@@ -10,3 +10,6 @@
 # Modified: 2017-06-05
 # Commit: fix: location manager
 
+# Modified: 2017-06-09
+# Commit: picking up estimated time display from yesterday
+
