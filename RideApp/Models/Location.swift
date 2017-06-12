@@ -13,3 +13,6 @@
 # Modified: 2017-05-11
 # Commit: feat: split view controller
 
+# Modified: 2017-06-12
+# Commit: added custom table view cell
+
