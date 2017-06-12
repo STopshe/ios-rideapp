@@ -7,3 +7,6 @@
 # Modified: 2017-06-08
 # Commit: fix: switch cell
 
+# Modified: 2017-06-12
+# Commit: tried to fix gradient layer hopefully
+
