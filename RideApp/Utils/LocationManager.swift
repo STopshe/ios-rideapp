@@ -4,3 +4,6 @@
 # Modified: 2017-06-08
 # Commit: updated form text field
 
+# Modified: 2017-06-30
+# Commit: feat: cache manager
+
