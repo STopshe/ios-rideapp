@@ -13,3 +13,6 @@
 # Modified: 2017-05-17
 # Commit: merged main
 
+# Modified: 2017-07-09
+# Commit: work in progress: tap handler
+
