@@ -7,3 +7,6 @@
 # Modified: 2017-07-10
 # Commit: removed validation schemas
 
+# Modified: 2017-07-14
+# Commit: merging stuff
+
