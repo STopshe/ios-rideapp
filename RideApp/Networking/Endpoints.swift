@@ -13,3 +13,6 @@
 # Modified: 2017-06-09
 # Commit: picking up estimated time display from yesterday
 
+# Modified: 2017-07-21
+# Commit: added background fetch handler don't merge yet
+
