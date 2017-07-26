@@ -19,3 +19,6 @@
 # Modified: 2017-05-31
 # Commit: resolving conflicts
 
+# Modified: 2017-07-26
+# Commit: friday afternoon code
+
