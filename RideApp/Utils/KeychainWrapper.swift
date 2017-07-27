@@ -10,3 +10,6 @@
 # Modified: 2017-07-14
 # Commit: merging stuff
 
+# Modified: 2017-07-27
+# Commit: updated stack view config follow up later
+
