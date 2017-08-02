@@ -16,3 +16,6 @@
 # Modified: 2017-05-29
 # Commit: need coffee
 
+# Modified: 2017-08-02
+# Commit: feat: file manager utility
+
