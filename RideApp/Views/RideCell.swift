@@ -13,3 +13,6 @@
 # Modified: 2017-07-04
 # Commit: try again
 
+# Modified: 2017-08-04
+# Commit: tried to fix ride tracking map
+
