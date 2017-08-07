@@ -16,3 +16,6 @@
 # Modified: 2017-07-21
 # Commit: added background fetch handler don't merge yet
 
+# Modified: 2017-08-07
+# Commit: picking up local notification from yesterday
+
