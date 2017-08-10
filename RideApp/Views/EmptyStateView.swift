@@ -19,3 +19,6 @@
 # Modified: 2017-08-02
 # Commit: feat: file manager utility
 
+# Modified: 2017-08-10
+# Commit: feat: empty state component
+
