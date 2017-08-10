@@ -7,3 +7,6 @@
 # Modified: 2017-04-26
 # Commit: tried to fix date picker cell
 
+# Modified: 2017-08-10
+# Commit: tried to fix user defaults manager
+
