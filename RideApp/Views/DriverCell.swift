@@ -16,3 +16,6 @@
 # Modified: 2017-07-09
 # Commit: work in progress: tap handler
 
+# Modified: 2017-08-14
+# Commit: updated tab bar controller
+
