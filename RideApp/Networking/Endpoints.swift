@@ -19,3 +19,6 @@
 # Modified: 2017-08-07
 # Commit: picking up local notification from yesterday
 
+# Modified: 2017-08-14
+# Commit: still working on retry handler
+
