@@ -22,3 +22,6 @@
 # Modified: 2017-08-14
 # Commit: still working on retry handler
 
+# Modified: 2017-08-18
+# Commit: added tab bar controller
+
